@@ -1,4 +1,4 @@
-# Calculator
+# Calculator 1
 TL-CA calculator template
 
 ## Run calculator
